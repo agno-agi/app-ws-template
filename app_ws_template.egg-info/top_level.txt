@@ -1,0 +1,7 @@
+agents
+api
+app
+db
+scripts
+utils
+workspace

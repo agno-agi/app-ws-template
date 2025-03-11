@@ -1,3 +1,31 @@
+Metadata-Version: 2.2
+Name: app-ws-template
+Version: 0.1.0
+Author-email: Agno Team <hello@agno.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: agno[aws]==1.1.9
+Requires-Dist: alembic
+Requires-Dist: beautifulsoup4
+Requires-Dist: duckduckgo-search
+Requires-Dist: fastapi[standard]
+Requires-Dist: mypy
+Requires-Dist: nest_asyncio
+Requires-Dist: openai
+Requires-Dist: pgvector
+Requires-Dist: pillow
+Requires-Dist: psycopg[binary]
+Requires-Dist: pypdf
+Requires-Dist: pytest
+Requires-Dist: python-docx
+Requires-Dist: ruff
+Requires-Dist: sqlalchemy
+Requires-Dist: streamlit
+Requires-Dist: tiktoken
+Requires-Dist: typer
+Requires-Dist: types-beautifulsoup4
+Requires-Dist: types-Pillow
+
 ## App Workspace Template
 
 This repo contains the code for running an agent-app and supports 2 environments:
