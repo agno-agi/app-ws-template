@@ -61,4 +61,4 @@ ag ws down dev
 
 ## Next Steps:
 
-- Run the Agent App on AWS - Docs coming soon
+- Run the App Workspace Template on AWS - Docs coming soon
